@@ -1,9 +1,10 @@
 /* All styles for your Card Components live here */
 .card-container{
-    max-width: 800px;
+    max-width: 600px;
     min-width: 300px;
-    border: 1px solid grey;
+    border: 1px solid rgb(206, 206, 206);
     border-radius: 1%;
+    margin: auto;
 }
 
 .banner{
