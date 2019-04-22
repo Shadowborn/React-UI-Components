@@ -1,1 +1,43 @@
 /* All styles for your header Components live here */
+.header-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+}
+
+.header-content{
+    width:100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.headerP{
+    width:100%;
+    padding: 0px 60px 0px 60px;
+    margin-top: 0px;
+}
+
+.headerTitle{
+    width:100%;
+    flex-wrap: wrap;
+}
+.title{
+    margin-bottom: 0px;
+}
+.header-thumbnail{
+    width: 7%;
+    height: auto;
+    padding-top: 2%;
+    padding:10px;
+}
+.logo {
+    width:100%;
+    height:auto;
+}
+.subTitle{
+    margin-bottom: 0px;
+    margin-left: 25px;
+    color:gray;
+}
