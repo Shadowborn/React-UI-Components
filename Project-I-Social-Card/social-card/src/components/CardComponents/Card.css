@@ -1,1 +1,32 @@
 /* All styles for your Card Components live here */
+.card-container{
+    max-width: 653px;
+    min-width: 300px;
+    border: 1px solid rgb(206, 206, 206);
+    border-radius: 1%;
+    margin: auto;
+}
+
+.banner{
+  max-width: 800px;
+  min-width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width:100%;
+  margin:0 auto;
+  border-radius: 1%;
+  
+}
+
+.card-content{
+    padding: 0px 25px 0px 25px;
+    margin-top: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
